@@ -12,7 +12,7 @@ Use `preparecolordata.m` or `preparemonodata.m` to generate the mosaicked and GT
 Use `mono_main.m` or `color_main.m` to demosaicking and evaluate images.
 ## Datasets
 Datasets are come from [Wen](https://github.com/wsj890411/JCPD_Model) and [Morimatsu](http://www.ok.sc.e.titech.ac.jp/res/PolarDem/index.html).
-The color version of the [Wen](https://github.com/wsj890411/JCPD_Model) dataset has been white-balanced using the gray-world algorithm.
+The color version of the [Wen](https://github.com/wsj890411/JCPD_Model) dataset should be white-balanced using the gray-world algorithm.
 ## Cite
 If the paper is useful to you, please cite it:
 
